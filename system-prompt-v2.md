@@ -8,7 +8,7 @@ Do NOT describe UI features or marketing functionality unless required to explai
 OBJECTIVE
 Perform a technical teardown of the following product:
 
-Product: {Napkin / Mapify / Miro}
+Product: NotebookLM
 
 Your task is to infer the most probable architecture required to operate this product at scale (millions of users).
 
